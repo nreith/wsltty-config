@@ -1,0 +1,13 @@
+ThemeFile=gruvbox-dark.minttyrc
+Scrollbar=none
+Font=Consolas
+PgUpDnScroll=yes
+BellType=0
+Printer=*
+ClicksPlaceCursor=no
+CtrlShiftShortcuts=yes
+FontHeight=10
+Transparency=off
+CursorType=block
+Term=xterm-256color
+
