@@ -8,8 +8,8 @@ https://nickjanetakis.com/blog/configuring-wsltty-which-is-my-favorite-windows-w
 
 2. These repos for themes:
 
-https://github.com/iamthad/base16-mintty
-https://github.com/mskyaxl/wsl-terminal
+- https://github.com/iamthad/base16-mintty
+- https://github.com/mskyaxl/wsl-terminal
 
 ## Usage
 
