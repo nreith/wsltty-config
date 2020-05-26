@@ -25,8 +25,8 @@ run the following in a Bash terminal window:
 ```bash
 cd /tmp
 git clone https://github.com/nreith/wsltty-conf.git
-cp wsltty_conf/themes/* /mnt/c/Users/$USER/AppData/Local/wsltty/themes/
-cp wsltty_conf/.minttyrc /mnt/c/Users/$USER/AppData/Local/wsltty/home/$USER/
+cp wsltty-conf/themes/* /mnt/c/Users/$USER/AppData/Local/wsltty/themes/
+cp wsltty-conf/.minttyrc /mnt/c/Users/$USER/AppData/Local/wsltty/home/$USER/
 ```
 
 Then start a new WSLTTY session.
