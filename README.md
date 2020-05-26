@@ -25,7 +25,7 @@ run the following in a Bash terminal window:
 ```bash
 cd /tmp
 git clone https://github.com/nreith/wsltty-conf.git
-cp wsltty-conf/themes/* /mnt/c/Users/$USER/AppData/Local/wsltty/themes/
+cp wsltty-conf/themes/* /mnt/c/Users/$USER/AppData/Roaming/wsltty/themes/
 cp wsltty-conf/.minttyrc /mnt/c/Users/$USER/AppData/Local/wsltty/home/$USER/
 ```
 
